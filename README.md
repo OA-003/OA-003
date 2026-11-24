@@ -7,5 +7,3 @@
 </p>
 <p align="center">
   $\color{0094a8}{\text{dessa copinglink ♡ doubles iwc}}$
-<p align="center">
-  $\color{0094a8}{\text{int freely c+h enc}}$

@@ -5,4 +5,5 @@
 <p align="center">
   <img src="https://files.catbox.moe/3dz2dd.png"width="200" />
 </p>
-wip
+<p align="center">
+  $\color{red}{Your colored text here}$

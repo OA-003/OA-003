@@ -6,4 +6,6 @@
   <img src="https://files.catbox.moe/3dz2dd.png"width="200" />
 </p>
 <p align="center">
-  $\color{red}{\text{Your colored text here}}$
+  $\color{0094a8}{\text{dessa copinglink ♡ doubles iwc}}$
+<p align="center">
+  $\color{0094a8}{\text{int freely c+h enc}}$
